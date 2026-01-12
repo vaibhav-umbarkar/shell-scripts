@@ -2,8 +2,6 @@
 
 This repository contains a collection of **practical shell scripting projects** focused on **automation, system administration, monitoring, and operational tasks** commonly used in Linux and DevOps environments.
 
-The scripts are designed to be **simple, reusable, and real-world oriented**, making this repository suitable for **learning, practice, and portfolio showcase**.
-
 ---
 
 ## 🧩 Project Categories
@@ -46,7 +44,7 @@ Scripts for monitoring:
 
 ---
 
-## 👤 Author
+## 👤 Dev
 
 **Vaibhav Umbarkar**  
 DevOps | Linux | Shell Scripting | AWS
