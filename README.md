@@ -44,7 +44,7 @@ Scripts for monitoring:
 
 ---
 
-## 👤 Dev
+## 👤 Author
 
 **Vaibhav Umbarkar**  
 DevOps | Linux | Shell Scripting | AWS
